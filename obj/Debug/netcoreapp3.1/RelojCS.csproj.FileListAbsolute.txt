@@ -1,0 +1,15 @@
+/home/reuneru/Desktop/VS Code/clock/RelojCS/bin/Debug/netcoreapp3.1/RelojCS
+/home/reuneru/Desktop/VS Code/clock/RelojCS/bin/Debug/netcoreapp3.1/RelojCS.deps.json
+/home/reuneru/Desktop/VS Code/clock/RelojCS/bin/Debug/netcoreapp3.1/RelojCS.runtimeconfig.json
+/home/reuneru/Desktop/VS Code/clock/RelojCS/bin/Debug/netcoreapp3.1/RelojCS.runtimeconfig.dev.json
+/home/reuneru/Desktop/VS Code/clock/RelojCS/bin/Debug/netcoreapp3.1/RelojCS.dll
+/home/reuneru/Desktop/VS Code/clock/RelojCS/bin/Debug/netcoreapp3.1/RelojCS.pdb
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.csprojAssemblyReference.cache
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.AssemblyInfoInputs.cache
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.AssemblyInfo.cs
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.csproj.CoreCompileInputs.cache
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.dll
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.pdb
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.genruntimeconfig.cache
+/home/reuneru/Desktop/VS Code/clock/RelojCS/bin/Debug/netcoreapp3.1/TextToAsciiArt.dll
+/home/reuneru/Desktop/VS Code/clock/RelojCS/obj/Debug/netcoreapp3.1/RelojCS.csproj.CopyComplete

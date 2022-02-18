@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/HQDae+UN054kbgKu6Bua8A3a7ilRl4bZA/ejnYHS30wD2kOQqjbMCY+7U4GTjA8ig61c05oCx/3PRF7Gm50g==",
+  "success": true,
+  "projectFilePath": "/home/reuneru/Desktop/VS Code/clock/RelojCS/RelojCS.csproj",
+  "expectedPackageFiles": [
+    "/home/reuneru/.nuget/packages/texttoasciiart/1.0.14.15/texttoasciiart.1.0.14.15.nupkg.sha512"
+  ],
+  "logs": []
+}
